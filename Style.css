@@ -8,26 +8,26 @@ body{
     background-color: rgb(255, 255, 255);
 }
 body{
-    color: rgb(37, 37, 37);
+    color: rgb(255, 255, 255);
 }
 .link-Twitter{
-    color: #1da1f2;
+    color: #1d9df2;
     text-decoration: none;
 }
 .link-Instagram{
-    color: #C13584;
+    color: #1d9df2;
     text-decoration: none;
 }
-.link-karotter{
-    color: #1da1f2;
+.link-Karotter{
+    color: #1d9df2;
     text-decoration: none;
 }
 .link-GitHub{
-    color: #181717;
+    color: #1d9df2;
     text-decoration: none;
 }
-.link-AtCoder{
-    color: #2A2F45;
+.link-Atcoder{
+    color: #1d9df2;
     text-decoration: none;
 }
 a:hover{
@@ -46,4 +46,20 @@ p{
 h2{
     font-size: 30px;
     font-weight: normal;
+}
+body{
+    background-image: url(10-3.png);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+}
+hr{
+    border: none;
+    height: 2px;
+    background-color: #ffffff;
+    margin: 20px 0;
+}
+html,body{
+    height: 100%;
+    margin: 0;
 }
